@@ -1,0 +1,3 @@
+/users/studs/bsc/2022/amitlus/Desktop/209405604_205704695/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/users/studs/bsc/2022/amitlus/Desktop/209405604_205704695/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/users/studs/bsc/2022/amitlus/Desktop/209405604_205704695/Client/cmake-build-debug/CMakeFiles/Client_new.dir
