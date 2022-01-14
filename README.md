@@ -12,7 +12,8 @@ Finel grade
 
 HOW TO RUN OUR CODE:  
 ***Run on Linux machine***  
-boost should be installed!
+boost should be installed!  
+
 ***FROM THE TERMINAL***
 1. Open 2 Terminals - 1 for the Server and 1 for the Client
 
