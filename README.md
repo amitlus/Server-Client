@@ -7,7 +7,7 @@ This is a Server-Client project which simulates the behaviour of "social media n
 
 The assingment's pdf is added
 
-Finel grade 
+Final grade 100 
 
 
 HOW TO RUN OUR CODE:  
